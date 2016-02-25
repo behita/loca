@@ -1,0 +1,13 @@
+{
+  "name": "loca",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
